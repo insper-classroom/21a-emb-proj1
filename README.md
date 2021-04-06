@@ -1,5 +1,7 @@
 # Bluetooth HC-05
 
+testando
+
 Exemplo de como usar o bluetooth HC-05 com o kit de desenvolvimento
 SAME70-XPLD.
 

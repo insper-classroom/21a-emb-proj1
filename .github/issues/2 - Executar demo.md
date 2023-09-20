@@ -2,7 +2,7 @@ Seguir os passos do exemplo HC-05:
 
 https://github.com/Insper/SAME70-examples/tree/master/Demos/HC05-Controle-Exemplo
 
-> O firmware desse repositório é uma cópia da pasta firmware do exemplo. Vocês podem usar o código que foi fornecido aqui como exemplo.
+> O firmware e o python desse repositório é uma cópia da pasta firmware e python do exemplo. Vocês podem executar o demo com o código deste repositório.
 
 Ao concluir vocês devem ter:
 
